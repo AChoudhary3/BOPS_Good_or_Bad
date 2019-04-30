@@ -1,10 +1,5 @@
 ---
 title: "BA Project"
-author: " Ayushi Choudhary
-          Bharati Malik
-          Pragyan Sharma
-          Sonal Agrawal
-          Swati Kwatra"
 output:
   pdf_document: default
   word_document: default
